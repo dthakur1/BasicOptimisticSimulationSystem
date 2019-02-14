@@ -1,4 +1,4 @@
-## Boss Simulator - Object Oriented Implementation using C++ language
+## Boss Simulator - Object Oriented Implementation using C++ 
 
 #### Brief information about simulation logic used to implement Boss Simulator
 
@@ -11,4 +11,3 @@
 	* Initialize LP list for each PE.
 
 * Create same number of threads as of PE count and start simulation by calling thread specific function.
-* Pseudo code of simulation function is as below:-
